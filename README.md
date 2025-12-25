@@ -12,7 +12,7 @@ Application web interactive qui prédit le prix d'un bien immobilier à Paris en
 
 ## Installation
 1. Clone le dépôt  
-   `git clone https://github.com/[ton-pseudo]/mini-projet-immo-sentiments-2025`
+   `git clone https://github.com/Nessrinebenyahia1/mini-projet-immo-sentiments-2025`
 2. Installe les dépendances  
    `pip install -r requirements.txt`
 3. Lance l'application  
